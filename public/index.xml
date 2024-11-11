@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beanconqueror - As individual as your coffee</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Beanconqueror - As individual as your coffee</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2024 11:41:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One app - a comprehensive coffee-ecosystem</title>
+      <link>http://localhost:1313/app/qrcode/</link>
+      <pubDate>Mon, 11 Nov 2024 11:41:32 +0000</pubDate>
+      <guid>http://localhost:1313/app/qrcode/</guid>
+      <description>&lt;p&gt;We thrive to build a &lt;strong&gt;comprehensive, transparent &amp;amp; open&lt;/strong&gt; ecosystem with ‍all information of the beans as core - we call it the &lt;strong&gt;BEAN-DNA&lt;/strong&gt;.&#xA;Besides this transparency, we want to give you all necessary &lt;strong&gt;instruments&lt;/strong&gt; to perfect your own &lt;strong&gt;brewing process! Customize&lt;/strong&gt; the app as you need it and always have &lt;strong&gt;access&lt;/strong&gt; to your &lt;strong&gt;perfect settings&lt;/strong&gt; - repeatable, customizable &amp;amp; open-source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Changelog</title>
+      <link>http://localhost:1313/app/changelog/</link>
+      <pubDate>Mon, 11 Nov 2024 11:41:23 +0000</pubDate>
+      <guid>http://localhost:1313/app/changelog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roadmap</title>
+      <link>http://localhost:1313/app/roadmap/</link>
+      <pubDate>Mon, 11 Nov 2024 11:41:16 +0000</pubDate>
+      <guid>http://localhost:1313/app/roadmap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Running Costs</title>
+      <link>http://localhost:1313/app/running-costs/</link>
+      <pubDate>Mon, 11 Nov 2024 11:41:09 +0000</pubDate>
+      <guid>http://localhost:1313/app/running-costs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Tracking</title>
+      <link>http://localhost:1313/app/data-tracking/</link>
+      <pubDate>Mon, 11 Nov 2024 11:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/app/data-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>faq</title>
+      <link>http://localhost:1313/app/faq/</link>
+      <pubDate>Mon, 11 Nov 2024 11:40:46 +0000</pubDate>
+      <guid>http://localhost:1313/app/faq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>http://localhost:1313/app/</link>
+      <pubDate>Mon, 11 Nov 2024 11:01:19 +0000</pubDate>
+      <guid>http://localhost:1313/app/</guid>
+      <description>&lt;p&gt;Questions? We have the answers&amp;hellip;&#xA;Frequently Asked Questions&#xA;You have questions? Let&amp;rsquo;s find out if you are the first one asking this or if we can help you&#xA;answer it right away. If not, no worries, just drop us a message and we will help.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One app - a comprehensive coffee-ecosystem</title>
+      <link>http://localhost:1313/vision/</link>
+      <pubDate>Mon, 11 Nov 2024 11:01:11 +0000</pubDate>
+      <guid>http://localhost:1313/vision/</guid>
+      <description>&lt;p&gt;We thrive to build a comprehensive, transparent &amp;amp; open ecosystem with ‍all information of the beans as core - we call it the BEAN-DNA.&#xA;Besides this transparency, we want to give you all necessary instruments to perfect your own brewing process! Customize the app as you need it and always have access to your perfect settings - repeatable, customizable &amp;amp; open-source.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Made-in-Germany&lt;/strong&gt;&lt;br&gt;&#xA;We are a team from Germany and thrive to use GDPR compliant tools hosted in Germany.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 11 Nov 2024 11:01:06 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Mon, 11 Nov 2024 11:00:55 +0000</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 11 Nov 2024 10:54:50 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 11 Nov 2024 10:01:23 +0000</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
