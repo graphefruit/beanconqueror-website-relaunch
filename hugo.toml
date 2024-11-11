@@ -2,7 +2,7 @@ baseURL = 'https://beanconqueror.com/'
 languageCode = 'en-us'
 title = 'Beanconqueror - As individual as your coffee - New one'
 ##Your theme name
-# theme = "hugoplate"
+theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Berlin"
 # post excerpt
